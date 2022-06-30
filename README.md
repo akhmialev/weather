@@ -12,5 +12,5 @@ Website: www.ncdc.noaa.gov/cdo-web/search
 * On the map on the left, click View Full Detail
 
 * Scroll down the data and find Station list and add the data you need, then go to the trash can in the upper right corner, select Output, then Custom GHCN-Daily CSV, follow the instructions to get the file, save it to the folder with the script and run the script.
-
+#
 ### Column numbering starts from 1!
